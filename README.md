@@ -1,1 +1,1 @@
-# Breaking-the-Records
+# Breaking-the-Records This code counts how many times a player's highest and lowest scores are broken in a series of games by iterating through the `scores` list and updating counters whenever a new record is set. It then returns a list with two integers: the first for the number of times the highest score was broken and the second for the lowest.
